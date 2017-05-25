@@ -1,0 +1,53 @@
+@@font-face {
+  src: url('http://fonts.gstatic.com/s/oleoscript/v5/_weQNDK6Uf40CiGFKBBUjogp9Q8gbYrhqGlRav_IXfk.woff2') format('woff2');
+
+
+}
+
+.site-header{
+  text-align:center;
+  height: 523;
+  width: 980px;
+  background-color:
+}
+
+.header-wrapper{
+  font-family: oleo script,helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url('http://fonts.gstatic.com/s/oleoscript/v5/_weQNDK6Uf40CiGFKBBUjogp9Q8gbYrhqGlRav_IXfk.woff2') format('woff2')
+}
+
+.subheader-msg{
+  font-family: poiret one, helvetica,sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url('Poiret One');
+  text-align: center;
+}
+
+.primary-text{
+  font-size:20px;
+  color: white;
+  text-align: center;
+  background-color: green;
+  height: 80px;
+  width: 980px;
+}
+.contact-wrapper{
+  text-align: center;
+}
+
+.footer-wrapper{
+  text-align: center;
+  background-color: black;
+  height: 40px;
+  margin-left: 0 auto;
+}
+
+.site-footer-text{
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin: 0 auto;
+}
